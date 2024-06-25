@@ -104,8 +104,8 @@ This project uses the OpenWeatherMap API. You need to have an API key to fetch t
 weather-dashboard/
 │
 ├── index.html # Main HTML file
-├── style.css # CSS file for styling
-├── script.js # JavaScript file with functionality
+├── main.css # CSS file for styling
+├── main.js # JavaScript file with functionality
 ├── README.md # Readme file
 
 ```
